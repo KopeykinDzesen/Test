@@ -8,7 +8,6 @@ public class Main {
     public static void main(String[] args) {
         printHW();
         //TestGitKraken
-        //Changes for release-0.1
     }
 
 }
